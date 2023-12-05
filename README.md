@@ -6,8 +6,8 @@
 
 
  <p align="center">  
- <a href="[https://telegra.ph/file/953048fb3aa3aae12a12a.jpg](https://telegra.ph/file/0b5a7839e8ee21874921e.jpg)">
-    <img alt="FORZEN MD" height="300" src="https://telegra.ph/file/0b5a7839e8ee21874921e.jpg">
+ <a href="[https://telegra.ph/file/e34cd6a332f8c4df5c049.jpg](https://telegra.ph/file/e34cd6a332f8c4df5c049.jpg)">
+    <img alt="FORZEN MD" height="300" src="https://telegra.ph/file/e34cd6a332f8c4df5c049.jpg">
 
     
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨:+𝑭𝑶𝑹𝒁𝑬𝑵+𝑴𝑫+𝑩𝑶𝑻;ᴏᴡɴᴇʀ+ʙʏ+ʏᴀsɪʏᴀ+ᴏғғɪᴄɪᴀʟ;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+ʏᴀsɪʏᴀ+ᴀɴᴅ+ɪɴᴅᴜᴡᴀʀᴀ;ᴘᴏᴡᴇʀᴅ+ʙʏ:+ᴄʏʙᴇʀ+ᴡᴀʀʀɪᴏʀs+x+ᴛᴇᴀᴍ)](https://git.io/typing-svg)
@@ -52,7 +52,7 @@
 ---
 ﻿<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## ```HEROKU DEPLOYMENT```
-# [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yasiyaofc1/FORZEN-MD)
+# [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tzaym1/FORZEN-MD)
 
 ﻿<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ----------
