@@ -34,7 +34,7 @@
 
 ●. ***Get a Mongodb uri from [railway.app](https://railway.app).***
 
-●.  ***Click [FORK](https://github.com/yasiyaofc1/FORZEN-MD/fork)***
+●.  ***Click [FORK](https://github.com/hghardy2/FORZEN-MD/fork)***
 
 ## ```SCAN QR CODE```
 
@@ -52,7 +52,7 @@
 ---
 ﻿<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## ```HEROKU DEPLOYMENT```
-# [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tzaym1/FORZEN-MD)
+# [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hghardy2/FORZEN-MD)
 
 ﻿<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ----------
